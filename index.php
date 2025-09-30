@@ -1,10 +1,9 @@
 <?php
 
 // The base path under which the application is exposed. For example, if you are
-// accessing the application at
-// "http://localhost:8888/comem-archidep-php-todo-exercise/", then BASE_URL
-// should be "/comem-archidep-php-todo-exercise/". If you are accessing the
-// application at "http://localhost:8888", then BASE_URL should be "/".
+// accessing the application at "http://localhost:8888/php-todo-ex/", then
+// BASE_URL should be "/php-todo-ex/". If you are accessing the application at
+// "http://localhost:8888", then BASE_URL should be "/".
 define('BASE_URL', '/');
 
 // Database connection parameters.
