@@ -8,7 +8,7 @@ the exercise is to collaborate on a simple project on GitHub as a team of 2 or
 
 ## Requirements
 
-* [PHP][php] 8+
+* [PHP][php] 8.3+
 * [MySQL][mysql] 8.4+
 
 ## Source code
