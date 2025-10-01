@@ -118,7 +118,7 @@ $items = $db->query($selectQuery);
 
         <div class='form-group'>
           <label for='task-title' class='sr-only'>Title</label>
-          <input id='task-title' class='form-control' name='title' type='text' placeholder='Task Title'>
+          <input id='task-title' class='form-control' name='title' type='text' placeholder='Task Title' maxlength='1000' required />
         </div>
 
         <button type='submit' class='btn btn-primary ml-2'>Add</button>
